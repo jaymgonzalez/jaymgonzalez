@@ -1,7 +1,9 @@
-name: Progress Bar CI
+name: README build
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 */6 * * *'
 
@@ -10,16 +12,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js
+      - name: Checkout current repository to Main branch
+        uses: actions/checkout@v1
+      - name: Setup NodeJs 13.x
         uses: actions/setup-node@v1
         with:
-          node-version: '14.x'
-      - name: Update README.md
-        run: node index.js > README.md
-      - name: Commit change & Push
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git commit -am "bot: update README.md automatically"
-          git push
+          node-version: '16.x'
+      - name: Cache dependencies and build outputs to improve workflow execution time.
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Generate README file
+        run: node index.js
+      - name: Commit and Push new README.md to the repository
+        uses: mikeal/publish-to-github-action@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
