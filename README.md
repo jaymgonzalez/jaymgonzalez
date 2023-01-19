@@ -1,6 +1,6 @@
 # Hi <a href="https://jaymgonzalez.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Jay - Web3 Engineer
 
-<p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<p><a href="https://twitter.com/jaymgeth"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/jay-m-gonzalez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <h3><a href="https://jaymgonzalez.com">➡️ Check out my personal website</a></h3>
 <h3><a href="https://generatenfts.xyz">➡️ Check out generatenfts.xyz</a> - An app that converts images into NFTs. </h3>
 
@@ -92,5 +92,5 @@ hobbies: ["Calisthenics", "Bachata", "Football", "Investing"]
 </h2>
 <br />
 
-<p align="center">⏰ Updated on Thursday, 19 January at 19:43 CET
+<p align="center">⏰ Updated on Thursday, 19 January at 23:16 CET
 ![Progress Bar CI](https://github.com/jaymgonzalez/jaymgonzalez/workflows/Progress%20Bar%20CI/badge.svg)</p>
