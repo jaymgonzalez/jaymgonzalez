@@ -2,7 +2,7 @@
 
 <p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <p><a href="https://jaymgonzalez.com">➡️ Check out my website</a></p>
-<p><a href="https://generatenfts.xyz">➡️ Check out generatenfts.xyz</a> - An app that converts images into NFTs. </p> 
+<p><a href="https://generatenfts.xyz">➡️ Check out generatenfts.xyz</a> - An app that converts images into NFTs. </p>
 
 <details>
  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
@@ -16,15 +16,9 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaymgonzalez&show_icons=true&theme=gotham" alt="jaymgonzalez" />
 
-
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymgonzalez&theme=gotham&layout=compact&hide_title=1" alt="Top language used in my repos" />
 
-
-
-
-
-
-
+</p>
 
 <!--
 

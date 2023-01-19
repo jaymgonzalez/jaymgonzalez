@@ -1,0 +1,11 @@
+{
+  "name": "jaymgonzalez",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jaymgonzalez/jaymgonzalez.git",
+  "author": "Jay M Gonzalez <jaimungon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
