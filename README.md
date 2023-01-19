@@ -92,5 +92,5 @@ hobbies: ["Calisthenics", "Bachata", "Football", "Investing"]
 </h2>
 <br />
 
-<p align="center">⏰ Updated on Thursday, 19 January, 15:33 CET
+<p align="center">⏰ Updated on Thursday, 19 January at 19:43 CET
 ![Progress Bar CI](https://github.com/jaymgonzalez/jaymgonzalez/workflows/Progress%20Bar%20CI/badge.svg)</p>
