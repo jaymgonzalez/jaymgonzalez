@@ -94,12 +94,7 @@ hobbies: ["Calisthenics", "Bachata", "Football", "Investing"]
 </h2>
 <br />
 
-<<<<<<< HEAD
-<p align="center">⏰ Updated on Friday, 20 January at 12:57 CET </p>
+<p align="center">⏰ Updated on Friday, 20 January at 13:00 CET </p>
 <br />
 <p align="center">
 <img src="https://github.com/jaymgonzalez/jaymgonzalez/actions/workflows/main.yml/badge.svg" /></p>
-=======
-<p align="center">⏰ Updated on Friday, 20 January at 07:24 CET
-![Progress Bar CI](https://github.com/jaymgonzalez/jaymgonzalez/workflows/Progress%20Bar%20CI/badge.svg)</p>
->>>>>>> a1ff63ee44ea3f48ab1c9babd6b6b44cf96e8710
