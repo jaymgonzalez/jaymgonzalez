@@ -79,9 +79,9 @@ hobbies: ["Calisthenics", "Bachata", "Football", "Investing"]
 <br />
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaymgonzalez&show_icons=true&theme=gotham" alt="jaymgonzalez" />
-
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymgonzalez&theme=gotham&layout=compact&hide_title=1" alt="Top language used in my repos" />
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=jaymgonzalez&show_icons=true&theme=cobalt" alt="jaymgonzalez" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymgonzalez&theme=cobalt&layout=compact&hide_title=1&hide=css,dart,c%2B%2B" alt="Top language used in my repos" />
 
 </p>
 
@@ -90,11 +90,11 @@ hobbies: ["Calisthenics", "Bachata", "Football", "Investing"]
 
 <h2 align="center">📊 Some other stats</h2>
 
-<h2 align="center">⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 5 % 
+<h2 align="center">⏳ Year progress { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7 % 
 </h2>
 <br />
 
-<p align="center">⏰ Updated on Friday, 20 January at 13:00 CET </p>
+<p align="center">⏰ Updated on Tuesday, 24 January at 19:47 CET </p>
 <br />
 <p align="center">
 <img src="https://github.com/jaymgonzalez/jaymgonzalez/actions/workflows/main.yml/badge.svg" /></p>
