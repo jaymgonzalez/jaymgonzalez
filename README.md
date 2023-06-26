@@ -1,4 +1,4 @@
-# Hi <a href="https://jaymgonzalez.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Jay - Web3 Engineer
+# Hi <a href="https://jaymgonzalez.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Jay - Software Engineer
 
 <p><a href="https://twitter.com/jaymgeth"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/jay-m-gonzalez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <h3><a href="https://jaymgonzalez.com">➡️ Check out my personal website</a></h3>
@@ -13,8 +13,8 @@
 name: Jay M Gonzalez
 located_in: EMEA
 from: Madrid (Spain)
-job: Web3 Engineer
-education: ["Ethereum Bootcamp", "Bachelor's in Finance", "Self-taught Engineer"]
+job: Software Engineer
+education: ["Machine Learning Specialization", "Ethereum Bootcamp", "Bachelor's in Finance"]
 company: Haymeh LLC
 past experiences:
   - ["Full-Stack Engineer", "Vue/Node/Express", "Contract", "Spain", "2022"]
@@ -22,10 +22,10 @@ past experiences:
   - ["Front-End SE", "JavaScript/CSS/HTML", "Decibel", "Spain", "2019-2021"]
   - ["Front-End Analytics impl", "JavaScript", "Bupa", "UK", "2019"]
 
-fields_of_interests: ["Blockchain", "EVM", "Smart Contract Audits",
-                      "UX", "Web3", "Node Clients", "NFTs"]
+fields_of_interests: ["Blockchain", "AI", "LLMs",
+                      "Deep Learning", "Web3", "Node Clients", "NFTs"]
                       
-currently_learning: ["Arbitrage Trading", "Assembly", "L2 Blockchains"]
+currently_learning: ["Machine Learning", "Deep Learning", "Automated Trading"]
 hobbies: ["Calisthenics", "Bachata", "Football", "Investing"]
 ```
 
@@ -94,7 +94,7 @@ hobbies: ["Calisthenics", "Bachata", "Football", "Investing"]
 </h2>
 <br />
 
-<p align="center">⏰ Updated on Monday, 26 June at 14:38 CEST </p>
+<p align="center">⏰ Updated on Monday, 26 June at 15:58 CEST </p>
 <br />
 <p align="center">
 <img src="https://github.com/jaymgonzalez/jaymgonzalez/actions/workflows/main.yml/badge.svg" /></p>
