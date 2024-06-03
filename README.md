@@ -94,7 +94,7 @@ hobbies: ["Calisthenics", "Bachata", "Football", "Investing"]
 </h2>
 <br />
 
-<p align="center">⏰ Updated on Sunday, 2 June at 20:06 CEST </p>
+<p align="center">⏰ Updated on Monday, 3 June at 02:22 CEST </p>
 <br />
 <p align="center">
 <img src="https://github.com/jaymgonzalez/jaymgonzalez/actions/workflows/main.yml/badge.svg" /></p>
