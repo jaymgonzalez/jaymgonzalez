@@ -16,7 +16,7 @@ const progressBarOfThisYear = generateProgressBar()
  */
 let DATA = {
   name: 'Jay',
-  profession: 'Software Engineer',
+  profession: 'DevOps Engineer',
   date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
