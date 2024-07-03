@@ -1,4 +1,4 @@
-# Hi <a href="https://jaymgonzalez.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Jay - Software Engineer
+# Hi <a href="https://jaymgonzalez.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Jay - DevOps Engineer
 
 <p><a href="https://twitter.com/jaymgeth"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/jay-m-gonzalez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <h3><a href="https://jaymgonzalez.com">➡️ Check out my personal website</a></h3>
@@ -13,17 +13,19 @@
 name: Jay M Gonzalez
 located_in: EMEA
 from: Madrid (Spain)
-job: Software Engineer
+job: DevOps Engineer
 education: ["Machine Learning Specialization", "Ethereum Bootcamp", "Bachelor's in Finance"]
 company: Haymeh LLC
 past experiences:
-  - ["Full-Stack Engineer", "Vue/Node/Express", "Contract", "Spain", "2022"]
+  - ["DevOps Engineer", "Python/Elastic/GitLab", "Six Group (Contract)", "Fully Remote", "2024"]
+  - ["AI Full-Stack Engineer", "Python/OpenAI/RAG", "Freelance", "Fully Remote", "2023"]
+  - ["Full-Stack Engineer", "Vue/Node/Express", "Freelance", "Spain", "2022"]
   - ["DevOps Engineer", "Python/Ansible/AWS", "Medallia", "Fully Remote", "2020-2022"]
   - ["Front-End SE", "JavaScript/CSS/HTML", "Decibel", "Spain", "2019-2021"]
   - ["Front-End Analytics impl", "JavaScript", "Bupa", "UK", "2019"]
 
-fields_of_interests: ["Blockchain", "AI", "LLMs",
-                      "Deep Learning", "Web3", "Node Clients", "NFTs"]
+fields_of_interests: ["Scripting Automation", "AWS", "Terraform",
+                      "Software Architecture", "CICD", "AI"]
                       
 currently_learning: ["Machine Learning", "Deep Learning", "Automated Trading"]
 hobbies: ["Calisthenics", "Bachata", "Football", "Investing"]
@@ -90,11 +92,11 @@ hobbies: ["Calisthenics", "Bachata", "Football", "Investing"]
 
 <h2 align="center">📊 Some other stats</h2>
 
-<h2 align="center">⏳ Year progress { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 48 % 
+<h2 align="center">⏳ Year progress { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 50 % 
 </h2>
 <br />
 
-<p align="center">⏰ Updated on Monday, 26 June at 15:58 CEST </p>
+<p align="center">⏰ Updated on Wednesday, 3 July at 12:53 CEST </p>
 <br />
 <p align="center">
 <img src="https://github.com/jaymgonzalez/jaymgonzalez/actions/workflows/main.yml/badge.svg" /></p>
