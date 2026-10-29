@@ -92,11 +92,11 @@ hobbies: ["Calisthenics", "Bachata", "Football", "Investing"]
 
 <h2 align="center">📊 Some other stats</h2>
 
-<h2 align="center">⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 82 % 
+<h2 align="center">⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 83 % 
 </h2>
 <br />
 
-<p align="center">⏰ Updated on Wednesday, 28 October at 23:24 CET </p>
+<p align="center">⏰ Updated on Thursday, 29 October at 06:16 CET </p>
 <br />
 <p align="center">
 <img src="https://github.com/jaymgonzalez/jaymgonzalez/actions/workflows/main.yml/badge.svg" /></p>
